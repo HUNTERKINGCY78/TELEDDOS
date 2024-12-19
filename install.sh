@@ -129,7 +129,7 @@ pip install urlopen
 pip install pystyle
 
 clear
-text="SUBSCRIBE GALIRUS OFFICIAL YOUTUBE"
+text="FOLLOW 🌷CY78 PROJECTS 🌷"
 duration=10
 length=${#text}
 steps=100
@@ -143,7 +143,7 @@ function loading_effect() {
             current_time=$(date +%s)
             elapsed_time=$((current_time - start_time))
             if [ "$elapsed_time" -ge "$duration" ]; then
-                xdg-open "https://www.youtube.com/@GalirusProjects"
+                xdg-open "https://www.tiktok.com/@cutewhitehat404?_t=8sLFQOl7OCI&_r=1"
                 break 2
             fi
         done
@@ -152,6 +152,12 @@ function loading_effect() {
     echo ""
 }
 $e $h
+$e $u"======================="
+$e $u"=$h DDOS DI AKTIFKAN  $u  ="
+$e $u"======================="
+sleep 4
+
+
 loading_effect
 
 
